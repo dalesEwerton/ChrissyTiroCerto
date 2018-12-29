@@ -40,20 +40,3 @@ def generateLooseProb(probabilitiesForHome, probabilitiesForVisitor):
             looseResult = looseResult + (probabilitiesForHome[i][1] * probabilitiesForVisitor[j][1])
             j = j-1
     return looseResult
-
-#TESTES
-
-print("Tests of ConstantGenerator module.")
-print(ofensiveCap(10,3,8,4))
-print(defensiveCap(10,3,8,4))
-
-print(predictHomeGoalsLambda(1.235, 0.881, 1.492))
-print(predictVisitorGoalsLambda(1.235, 0.881, 1.492))
-
-print(generatePoisonProbabilitiesForGoals(1.623))
-
-print("Empate " + str(generateDrawnProb(generatePoisonProbabilitiesForGoals(1.623), generatePoisonProbabilitiesForGoals(0.823))))
-
-print("Vitoria " + str(generateVictoryProb(generatePoisonProbabilitiesForGoals(1.623), generatePoisonProbabilitiesForGoals(0.823))))
-
-print("Derrota " + str(generateLooseProb(generatePoisonProbabilitiesForGoals(1.623), generatePoisonProbabilitiesForGoals(0.823))))

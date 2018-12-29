@@ -1,0 +1,55 @@
+Juventus - Sampdoria
+Vitoria da Casa - 79.08302039576486 %
+Empate - 11.373318792828869 %
+Vitoria Visitante - 4.040481596087727 %
+Jogos - 4
+Chrissy Constant - 2.239974937343358
+Resultado - 2x1
+Chievo - Frosinone Calcio
+Vitoria da Casa - 63.19970205693899 %
+Empate - 27.695384382010367 %
+Vitoria Visitante - 8.826106973003583 %
+Jogos - 4
+Chrissy Constant - 1.0315968492660221
+Resultado - 1x0
+Empoli - Inter Milan
+Vitoria da Casa - 55.10773081058844 %
+Empate - 15.911870107195462 %
+Vitoria Visitante - 19.11831536599852 %
+Jogos - 4
+Chrissy Constant - 1.306838524883637
+Resultado - 0x1
+Genoa - Fiorentina
+Vitoria da Casa - 27.876762003776275 %
+Empate - 27.19172156304996 %
+Vitoria Visitante - 44.576926528426995 %
+Chrissy Constant - -0.35020587182241325
+Resultado - 0x0
+Lazio - Torino
+Vitoria da Casa - 23.246794325279726 %
+Empate - 27.695037746469552 %
+Vitoria Visitante - 48.74391639569461 %
+Jogos - 4
+Chrissy Constant - -0.5202738990332976
+Resultado - 1x1
+Parma - Roma
+Vitoria da Casa - 37.2198284074781 %
+Empate - 46.44083968882536 %
+Vitoria Visitante - 16.333771766645675 %
+Jogos - 4
+Chrissy Constant - 0.3088077336197638
+Resultado - 0x2
+Sassuolo - Atalanta
+Vitoria da Casa - 29.45033234205388 %
+Empate - 20.43986301698169 %
+Vitoria Visitante - 46.87035663017401 %
+Jogos - 4
+Chrissy Constant - -0.4923021840315074
+Resultado - 2x6
+Udinese - Cagliari
+Vitoria da Casa - 31.25981286309891 %
+Empate - 26.684831008901682 %
+Vitoria Visitante - 41.64675484968474 %
+Jogos - 4
+Chrissy Constant - -0.22265485141425012
+Resultado - 2x0
