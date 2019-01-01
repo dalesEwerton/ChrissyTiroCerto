@@ -52,4 +52,39 @@ Empate - 26.684831008901682 %
 Vitoria Visitante - 41.64675484968474 %
 Jogos - 4
 Chrissy Constant - -0.22265485141425012
-Resultado - 2x0
+Resultado - 2x0Southampton - Manchester City
+Vitoria da Casa - 7.916386718335786 %
+Empate - 21.894994444298796 %
+Vitoria Visitante - 69.366659437482 %
+Jogos - 10
+Chrissy Constant - -1.3177668013770392
+Burnley - West Ham
+Vitoria da Casa - 13.902020489630743 %
+Empate - 20.56053111940832 %
+Vitoria Visitante - 63.91923553777528 %
+Jogos - 10
+Chrissy Constant - -1.2004190989372847
+Manchester United - Bournemouth
+Vitoria da Casa - 60.59609227546537 %
+Empate - 20.180679202931053 %
+Vitoria Visitante - 17.07115450919212 %
+Jogos - 10
+Chrissy Constant - 1.1034775233248515
+Everton - Leicester City
+Vitoria da Casa - 40.63816102449209 %
+Empate - 24.675199174916003 %
+Vitoria Visitante - 33.90712246942246 %
+Jogos - 10
+Chrissy Constant - 0.15536596317916462
+Arsenal - Fulham
+Vitoria da Casa - 79.62842313408325 %
+Empate - 7.979660088917312 %
+Vitoria Visitante - 2.553140245720113 %
+Jogos - 10
+Chrissy Constant - 2.725041161502769
+Cardiff - Tottenham
+Vitoria da Casa - 5.47617533984016 %
+Empate - 8.55071522465384 %
+Vitoria Visitante - 67.2266191758622 %
+Jogos - 10
+Chrissy Constant - -2.797186049992516
